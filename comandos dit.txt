@@ -1,0 +1,4 @@
+mkdir
+rmdir
+git init
+git add
