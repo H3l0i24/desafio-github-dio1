@@ -1,4 +1,13 @@
-mkdir
-rmdir
-git init
-git add
+dir ou ls- listar diretórios presentes no sistema
+cd- navegar em um local específico do sistema
+..- retroceder um nível na navegação
+clear- limpar tela
+mkdir- criar pasta ou repositório
+echo- printar de volta uma frase
+>- redirecionador
+del- deleta apenas arquivos
+rmdir- deleta repositório
+git init- iniciar git ou umrepositório
+git add- mover arquivos
+git commit- criar commit
+-a- mostra arquivos ocultos (gerenciados pelo git)
